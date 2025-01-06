@@ -6,6 +6,26 @@ This repository provides an exploration of various machine learning algorithms t
 - ClimateWins has heard of ethical concerns surrounding machine learning and AI. Are there any concerns specific to this project?
 - Historically, what have the maximums and minimums in temperature been?
 -   Can machine learning be used to predict whether weather conditions will be favorable on a certain day? (If so it could also be possible to predict danger.)
+### Achievements Summary
+Achievement 1: Statistical and Machine Learning Models
+Data Analysis: Performed exploratory data analysis (EDA) on historical weather data.
+
+K-Nearest Neighbors (KNN): Used to classify weather conditions based on temperature and other features.
+
+Linear and Logistic Regression: Developed regression models for temperature trends and to classify binary outcomes (e.g., rain/no rain).
+
+Random Forest: Applied to enhance prediction accuracy by combining multiple decision trees.
+
+Achievement 2: Deep Learning Techniques
+Convolutional Neural Network (CNN): Built a CNN for visual weather pattern recognition using images of different weather conditions (cloudy, sunny, rainy).
+
+Recurrent Neural Network (RNN): Applied to predict time-series weather data, leveraging sequential data.
+
+Hyperparameter Tuning: Implemented techniques like grid search and random search for optimizing model performance.
+
+Model Evaluation: Assessed models using accuracy, loss, and confusion matrices to ensure reliability.
+
+Presentation: Created thought eperiments on what the company could achieve with the data to align with their goals.
 ### Folders
 Folder contents are as follows:
 - 01 Project Management: Contains the project brief and other related documentation
